@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unansweredocd
 - 👀 I’m interested in coffee, databases and fixed gear bikes.
 - 🌱 I’m currently learning advanced postgresql
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on whatever I need / use for work.
 - 📫 How to reach me ...
 
 <!---
